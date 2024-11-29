@@ -1,0 +1,4 @@
+hello world
+python programming
+ai and machine learning
+text file example
